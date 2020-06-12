@@ -4,7 +4,9 @@
   "description": "learn node and react from coursera",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+	"start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"lite":"lite-server"
   },
   "repository": {
     "type": "git",
@@ -20,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/ferial71/coursera_react_full_stack/issues"
   },
-  "homepage": "https://github.com/ferial71/coursera_react_full_stack#readme"
+  "homepage": "https://github.com/ferial71/coursera_react_full_stack#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }

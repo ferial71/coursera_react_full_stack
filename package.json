@@ -1,0 +1,24 @@
+{
+  "name": "coursera_react_full_stack",
+  "version": "1.0.0",
+  "description": "learn node and react from coursera",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferial71/coursera_react_full_stack.git"
+  },
+  "keywords": [
+    "node",
+    "react",
+    "git"
+  ],
+  "author": "Ferial71",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferial71/coursera_react_full_stack/issues"
+  },
+  "homepage": "https://github.com/ferial71/coursera_react_full_stack#readme"
+}
